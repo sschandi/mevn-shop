@@ -1,5 +1,6 @@
 # MEVN Shop
 MongoDB, Express, Vue, and Node Shopping Website
+[Live here](https://lets-shop-client.netlify.com/)
 
 ## Features
 > Add, Delete, Edit, and Update products in the store by calling backend API
