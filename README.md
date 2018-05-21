@@ -3,8 +3,11 @@ MongoDB, Express, Vue, and Node Shopping Website
 
 ## Features
 > Add, Delete, Edit, and Update products in the store by calling backend API
+
 > Local cache via VueX stores cart information through window exit
+
 > Products seperated via pagination for better loading
+
 > Responsive design
 
 ## Build Setup
